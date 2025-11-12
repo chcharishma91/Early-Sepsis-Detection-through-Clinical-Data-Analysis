@@ -19,7 +19,12 @@ Patient profiling to identify high-risk groups and trends in sepsis incidence. I
 ## Biomarker & Vital Sign Analysis: 
 Monitored 34 key biomarkers and vital signs to detect early warning signals of sepsis.
 
-## Sepsis Stage Analysis: 
-Evaluated SIRS criteria and septic shock progression to track disease severity and support timely interventions.
 
+## Sepsis Stage Analysis: 
+Evaluated SIRS criteria and septic shock progression to monitor disease severity and support timely interventions. Identified critical trigger hours using Fixed LOD expressions and visual alerts for abnormal biomarker readings. To enhance real-time response, implemented email alert actions in Tableau dashboards to notify medical teams immediately when patients reached high-risk conditions.
 These analyses generated actionable insights, improving ICU efficiency, enabling prompt intervention, and supporting better patient outcomes.
+
+<img width="1401" height="554" alt="Screenshot 2025-11-12 at 10 54 52 AM" src="https://github.com/user-attachments/assets/57141eac-64be-47a5-9f86-1bf56d18d6b9" />
+
+## Conclusion
+This project demonstrates how data-driven analysis of clinical records can enable early detection of sepsis, allowing medical teams to intervene before the condition becomes critical. By combining demographic profiling, biomarker monitoring, and sepsis stage evaluation, actionable insights were generated to improve patient outcomes, enhance ICU efficiency, and reduce the risk of sepsis-related mortality. The integration of real-time alerts in Tableau dashboards showcases the potential of analytics to support proactive, life-saving clinical decisions.
